@@ -2,7 +2,7 @@ package org.example.edu.model;
 
 public class Student {
     private long id;
-private String name;
+    private String name;
     private String email;
     private int age;
 
